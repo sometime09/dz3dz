@@ -1,0 +1,12 @@
+.ul {
+    display: flex;
+    color: black;
+    list-style-type: none;
+    border-bottom: 1px solid #ccc;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.fil {
+    margin: 0 20px 10px;
+}
